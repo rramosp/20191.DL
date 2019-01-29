@@ -4,7 +4,7 @@
 
     W01  5feb      Intro.Class                        Intro.ML   
     W02 12feb      U1.Intro.NN                        Lab 1.1
-    W03 12feb      U2.NN.Archs.TrainAlgs.Reg          Lab 2.1
+    W03 19feb      U2.NN.Archs.TrainAlgs.Reg          Lab 2.1
     W04 26feb      U2.NN.Initz.Batch.Relu.Vanish      Lab 2.2
     W05  5mar      Labs                               Parcial         10Mar Deadline Lab1 Lab2
     W06 12mar      U3.CNN.ConvOp.Archs                Lab 3.1
