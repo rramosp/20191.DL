@@ -27,3 +27,10 @@
      15% Lab 4
      25% U3.Proyecto
      25% U4.Proyecto
+     
+## Lecturas recomendadas
+
+- Hastie, Tibshirani, Friedman, **The Elements of Statistical Learning**, Springer-Verlag [website](https://web.stanford.edu/~hastie/ElemStatLearn/) [pdf](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
+- Goodfellow, Bengio, Courville, **Deep Learning**, MIT Press [website](https://www.deeplearningbook.org/) [pdf](https://github.com/janishar/mit-deep-learning-book-pdf)
+- Bengio, **Learning Deep Architectures for AI**, Foundations and Trends in
+Machine Learning, Vol. 2, No. 1 (2009) 1–127, [pdf](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf)
