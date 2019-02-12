@@ -31,7 +31,7 @@
  ## Registro y materiales
  
  - [Listado de estudiantes](https://docs.google.com/spreadsheets/d/1jbCc0ZHC5qFMhwMEpoCgSFzHwP6lx_V77E4Blh6Tk38/edit#gid=2001230691)
- - [Máquina virtual del curso](https://drive.google.com/drive/u/1/folders/0B8Zt4_2mUDZ6flY2Nnd2anJyYlo1cGt1SW9seW5aYzZhd3RRbFBzTzdWRWdvVmxqc1k5bGc)
+ - [Máquina virtual del curso](https://drive.google.com/file/d/1VI5oU_gQQ0LO_Eoiq8N66j1zgi8-vC6j/view?usp=sharing)
  
 
 
