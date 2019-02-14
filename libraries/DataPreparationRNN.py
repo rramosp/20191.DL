@@ -27,14 +27,16 @@ def PintaResultado(dataset,trainPredict,testPredict,look_back):
 	trainPredictPlot[:, :] = np.nan
 	trainPredictPlot[look_back:len(trainPredict)+look_back, :] = trainPredict
 	# shift test predictions for plotting
-	testPredictPlot = np.empty_like(dataset)
+	testPredictPlot = np.empty_like(dataset+1)
 	testPredictPlot[:, :] = np.nan
-	testPredictPlot[len(dataset)-len(testPredict)-1:len(dataset)-1, :] = testPredict
+	testPredictPlot[len(dataset)-len(testPredict):len(dataset)+1, :] = testPredict
 	# plot baseline and predictions
-	plt.plot(dataset)
-	plt.plot(trainPredictPlot)
-	plt.plot(testPredictPlot)
+	plt.plot(dataset,label='Original Time serie')
+	plt.plot(trainPredictPlot,label='Training prediction')
+	plt.plot(testPredictPlot,label='Test prediction')
+	plt.legend()
 	plt.show()
+
 
 def EstimaRMSE(model,X_train,X_test,y_train,y_test,scaler,look_back):
 	# make predictions
