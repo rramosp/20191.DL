@@ -479,7 +479,7 @@ def selective_search(img, ks=[50,100]):
         for j in range(len(ks)):
             for k in range(len(sim_feats_list)):
                 _img = cc[i]
-                _file = "%s%s/%d/%s.mat"%(seg_dir,color_space_list[i].upper(),ks[j],image_name)
+                _file = "%s%s/%d/%s.mat"%(seg_dir,color_space_list[i].upper(),ks[j],"tmp_image")
                 fdir = "%s%s/%d"%(seg_dir,color_space_list[i].upper(),ks[j])
                 if os.path.isdir(fdir):
 	                shutil.rmtree(fdir)
