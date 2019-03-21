@@ -27,6 +27,23 @@
      15% Lab 4
      25% U3.Proyecto
      25% U4.Proyecto
+     
+## Proyectos
+
+Para el proyecto U3 (redes convolucionales) y U4 (redes recurrentes) tendrás que:
+
+- escoger un dataset, de un tema de tu interés, de tu investigación, etc.
+- plantear una tarea de aprendizaje junto con una métrica de evaluación (p.ej. clasificación, detección, etc.)
+- plantear una estrategia de resolución (preprocesado, arquitectura de red, trasnfer learning, data augmentation, feature learning, etc.)
+- implementar el flujo de trabajo experimental
+
+Tu entrega habrá de ser uno o varios notebooks donde proveas evidencia del trabajo realizado, incluyendo experimentos pruebas, etc.
+
+Criterios de evaluación
+
+- **20% Reproducibilidad**. Tus notebooks han de ser 100% ejecutables sin errores, desde la descarga de datos hasta la obtención de tus resultados.
+- **20% Claridad**. Explica bien tu tarea
+
 
  ## Registro y materiales
  
