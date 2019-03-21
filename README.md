@@ -37,12 +37,16 @@ Para el proyecto U3 (redes convolucionales) y U4 (redes recurrentes) tendrás qu
 - plantear una estrategia de resolución (preprocesado, arquitectura de red, trasnfer learning, data augmentation, feature learning, etc.)
 - implementar el flujo de trabajo experimental
 
-Tu entrega habrá de ser uno o varios notebooks donde proveas evidencia del trabajo realizado, incluyendo experimentos pruebas, etc.
+Tu entrega habrá de ser **un repositorio github** con uno o varios notebooks donde proveas evidencia del trabajo realizado, incluyendo experimentos pruebas, etc.
 
-Criterios de evaluación
+**Para realizar tu entrega**, crea un documento llamado `U3.Proyecto` en el Google drive compartido, que contenga el enlace a tu repositorio github. Si llamas distinto a este documento **no será tenido en cuenta**.
 
-- **20% Reproducibilidad**. Tus notebooks han de ser 100% ejecutables sin errores, desde la descarga de datos hasta la obtención de tus resultados.
-- **20% Claridad**. Explica bien tu tarea
+### Criterios de evaluación
+
+- **25% Reproducibilidad**: Tus notebooks han de ser 100% ejecutables sin errores, desde la descarga de datos hasta la obtención de tus resultados. Si lo consideras necesario crea un fichero descargable con tus datos y publícalo en algún lado como están en los notebooks del curso. **No incluyas los datos en el repositorio**.
+- **25% Claridad**: Explica bien tu tarea (en los mismos notebooks), la métrica de evaluación que ests usando y el ciclo experimental que hiciste (probé tales arquitecturas de red, el modelo final tiene tal arquitectura porque las anteriores sufrían de overfitting, etc.) 
+- **25% Repositorio**: Tu repositorio ha de estar ordenado, con una estructura clara y con un README.md que indique qué notebooks ejecutar con tu resultado final, qué notebooks contienen los experimentos previos que hiciste, etc.
+- **25% Compleción**: Tu tarea ha de utilizar las técnicas vistas en clase y ha de demostrar un flujo experimental (prueba de varias arquitecturas, preprocesados, etc.). Igualmente has de incluir una **interpretación de tus resultados**.
 
 
  ## Registro y materiales
