@@ -37,6 +37,8 @@ Para el proyecto U3 (redes convolucionales) y U4 (redes recurrentes) tendrás qu
 - plantear una estrategia de resolución (preprocesado, arquitectura de red, trasnfer learning, data augmentation, feature learning, etc.)
 - implementar el flujo de trabajo experimental
 
+### Entrega
+
 Tu entrega habrá de ser **un repositorio github** con uno o varios notebooks donde proveas evidencia del trabajo realizado, incluyendo experimentos pruebas, etc.
 
 **Para realizar tu entrega**, crea un documento llamado `U3.Proyecto` en el Google drive compartido, que contenga el enlace a tu repositorio github. Si llamas distinto a este documento **no será tenido en cuenta**.
@@ -54,8 +56,6 @@ Tu entrega habrá de ser **un repositorio github** con uno o varios notebooks do
  - [Listado de estudiantes](https://docs.google.com/spreadsheets/d/1jbCc0ZHC5qFMhwMEpoCgSFzHwP6lx_V77E4Blh6Tk38/edit#gid=2001230691)
  - [Máquina virtual del curso](https://drive.google.com/file/d/1VI5oU_gQQ0LO_Eoiq8N66j1zgi8-vC6j/view?usp=sharing)
  
-
-
 
 ## Lecturas recomendadas
 
