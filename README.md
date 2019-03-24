@@ -41,7 +41,7 @@ Para el proyecto U3 (redes convolucionales) y U4 (redes recurrentes) tendrás qu
 
 Tu entrega habrá de ser **un repositorio github** con uno o varios notebooks donde proveas evidencia del trabajo realizado, incluyendo experimentos pruebas, etc.
 
-**Para realizar tu entrega**, crea un documento llamado `U3.Proyecto` en el Google drive compartido, que contenga el enlace a tu repositorio github. Si llamas distinto a este documento **no será tenido en cuenta**.
+**Para realizar tu entrega**, crea un documento llamado `U3.Proyecto` o `U4.Proyecto` en el Google drive compartido, que contenga el enlace a tu repositorio github. Si llamas distinto a este documento **no será tenido en cuenta**.
 
 ### Criterios de evaluación
 
