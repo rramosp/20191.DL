@@ -8,8 +8,8 @@
     W04 26feb      U2.NN.Initz.Batch.Relu.Vanish      Lab 2.2
     W05  5mar      Labs                               Parcial         10Mar Deadline Lab1 Lab2
     W06 12mar      U3.CNN.ConvOp.Archs                Lab 3.1
-    W07 19mar      U3.CNN.Classf.Detectn.Segmtn       Lab 3.2
-    W08 26mar      U3.CNN.Transfer Learning           Lab 3.3         31Mar Deadline Lab3
+    W07 19mar      U3.CNN.Classf.Detectn.Segmtn       Lab 3.2         31Mar Deadline U3.05 3.06 3.07 3.10 3.11
+    W08 26mar      U3.CNN.Transfer Learning           Lab 3.3         7abr Deadline U3.15 3.16 3.17
     W09  2abr      U3.Proyecto                        U3.Proyecto
     W10  9abr      U3.Proyecto                        U3.Proyecto     14Abr Deadline U3.Proyecto
     W11 23abr      U4.RNN.SeqModels.BProp in Time     Lab 4.1
