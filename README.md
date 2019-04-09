@@ -11,8 +11,8 @@
     W07 19mar      U3.CNN.Classf.Detectn.Segmtn       Lab 3.2         31Mar Deadline U3.05 3.06 3.07 3.10 3.11
     W08 26mar      U3.CNN.Transfer Learning           Lab 3.3         7abr Deadline U3.15 3.16 3.17
     W09  2abr      U3.Proyecto                        U3.Proyecto
-    W10  9abr      U3.Proyecto                        U3.Proyecto     14Abr Deadline U3.Proyecto
-    W11 23abr      U4.RNN.SeqModels.BProp in Time     Lab 4.1
+    W10  9abr      U3.Proyecto                        U3.Proyecto     21Abr Deadline U3.Proyecto
+    W11 23abr      U4.RNN.SeqModels.BProp in Time     Lab 4.1         25Abr presentación proyectos seleccionados
     W12 30abr      U4.RNN.LSTM.Archs.Seq2Seq          Lab 4.2
     W13  7may      U4.RNN.CNN-LSTM                    Lab 4.3         12May Deadline Lab4
     W14 14may      U4.Proyecto                        U4.Proyecto
