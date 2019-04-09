@@ -50,6 +50,15 @@ Tu entrega habrá de ser **un repositorio github** con uno o varios notebooks do
 - **25% Repositorio**: Tu repositorio ha de estar ordenado, con una estructura clara y con un README.md que indique qué notebooks ejecutar con tu resultado final, qué notebooks contienen los experimentos previos que hiciste, etc.
 - **25% Compleción**: Tu tarea ha de utilizar las técnicas vistas en clase y ha de demostrar un flujo experimental (prueba de varias arquitecturas, preprocesados, etc.). Igualmente has de incluir una **interpretación de tus resultados**.
 
+### Presentación
+
+Si se te requiere tendrás que realizar una **breve presentación** de tu proyecto, teniendo en cuenta que:
+
+- la presentacin ha de durar **10 minutos**. Esto es un límite **estricto**. Al cabo de ese tiempo se cortará la presentación esté en el punto que esté.
+- Tendrás que presentar **tres aspectos**: 1) qué tarea se resolvió, 2) qué experimentos se hicieron, 3) tus conclusiones e interpretación de los resultados.
+- La calificación será **un factor entre 0.5 y 1.5**, que se multiplicará con la calificación obtenida a la entrega para obtener la calificación final.
+
+
 
  ## Registro y materiales
  
